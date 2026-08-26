@@ -112,7 +112,7 @@ const About: React.FC = () => {// Skills grouped by category
             </p>
             <br />
             <p>
-              Alongside work, I'm graduating this September with an{" "}
+              Alongside work, I'm graduating this January with an{" "}
               <span style={{ color: "#f0f0f5", fontWeight: 500 }}>
                 MSc in Artificial Intelligence (1:1) from the University of
                 Limerick
