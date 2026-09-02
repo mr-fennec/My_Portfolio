@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.3e0c6f83.css",
-    "main.js": "/static/js/main.cd233002.js",
+    "main.js": "/static/js/main.21995aee.js",
     "static/media/kake.PNG": "/static/media/kake.5cb9c25448873a642cc1.PNG",
     "static/media/weatherApp.png": "/static/media/weatherApp.82196f7e43132536501e.png",
-    "static/media/Abderahman_Haouit_CV.pdf": "/static/media/Abderahman_Haouit_CV.476cebfa5d7737ebc6ed.pdf",
+    "static/media/Abderahman_Haouit_CV.pdf": "/static/media/Abderahman_Haouit_CV.ef352939d7b21887484b.pdf",
     "static/media/thesis.png": "/static/media/thesis.4e3931a16c566e26ba79.png",
     "static/media/calmness.jpg": "/static/media/calmness.1b2c69bc607092247cbb.jpg",
     "static/media/databricks.png": "/static/media/databricks.0b9e5f7b96c5388d79f9.png",
@@ -29,10 +29,10 @@
     "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/index.html",
     "main.3e0c6f83.css.map": "/static/css/main.3e0c6f83.css.map",
-    "main.cd233002.js.map": "/static/js/main.cd233002.js.map"
+    "main.21995aee.js.map": "/static/js/main.21995aee.js.map"
   },
   "entrypoints": [
     "static/css/main.3e0c6f83.css",
-    "static/js/main.cd233002.js"
+    "static/js/main.21995aee.js"
   ]
 }
