@@ -16,8 +16,8 @@ const Portfolio: React.FC = () => {// Portfolio component displaying recent proj
       desc: "MSc thesis: longitudinal ML framework on the TILDA dataset predicting chronic disease onset in older Irish adults. Preprocessed ~41M data points across 6 datasets. Pooled multi-wave XGBoost achieved 0.718 AUC — 22% gain over the single-wave baseline. SHAP identified medication use, pain & self-rated health as top predictors.",
       tech: ["Python", "XGBoost", "scikit-learn", "SHAP", "Pandas", "NumPy"],
       month: "2025–2026",
-      link: "https://github.com/AbduldevLab/ml_pred_chronic_disease",
-      repo: "https://github.com/AbduldevLab/MSc_Thesis_ML_AI",
+      link: "https://github.com/mr-fennec/ml_pred_chronic_disease",
+      repo: "https://github.com/mr-fennec/MSc_Thesis_ML_AI",
       isMSc: true,
     },
     {
@@ -28,7 +28,7 @@ const Portfolio: React.FC = () => {// Portfolio component displaying recent proj
       tech: ["React", "TypeScript", "Firebase", "Firestore"],
       month: "Jan 2023",
       link: "https://kake-project.web.app/",
-      repo: "https://github.com/AbduldevLab/KakeDessertDelivery-FYP",
+      repo: "https://github.com/mr-fennec/KakeDessertDelivery-FYP",
       isFYP: true,
     },
     {
@@ -38,8 +38,8 @@ const Portfolio: React.FC = () => {// Portfolio component displaying recent proj
       desc: "Live weather forecasting with location-based lookup, 5-day forecasts and real-time temperature, humidity & wind speed via OpenWeatherMap API.",
       tech: ["React", "Vite", "TypeScript", "OpenWeatherMap API"],
       month: "Mar 2024",
-      link: "https://AbduldevLab.github.io/NT-Weather-WebApp/",
-      repo: "https://github.com/AbduldevLab/NT-Weather-WebApp",
+      link: "https://mr-fennec.github.io/NT-Weather-WebApp/",
+      repo: "https://github.com/mr-fennec/NT-Weather-WebApp",
     },
     {
       id: 4,
@@ -48,7 +48,7 @@ const Portfolio: React.FC = () => {// Portfolio component displaying recent proj
       desc: "Mental wellness web application with guided exercises and mood tracking.",
       tech: ["React", "JavaScript", "CSS3"],
       month: "Sep 2022",
-      repo: "https://github.com/AbduldevLab/Calmness_web_app",
+      repo: "https://github.com/mr-fennec/Calmness_web_app",
     },
     {
       id: 5,
@@ -57,7 +57,7 @@ const Portfolio: React.FC = () => {// Portfolio component displaying recent proj
       desc: "Tracks and maps any IP address using the IPify API and Leaflet.js map rendering.",
       tech: ["JavaScript", "Leaflet.js", "IPify API"],
       month: "Jun 2022",
-      repo: "https://github.com/AbduldevLab/TrackIPAddress",
+      repo: "https://github.com/mr-fennec/TrackIPAddress",
     },
     {
       id: 6,
@@ -66,7 +66,7 @@ const Portfolio: React.FC = () => {// Portfolio component displaying recent proj
       desc: "Mobile-first delivery management interface with order tracking and status updates.",
       tech: ["React", "Node.js", "CSS3"],
       month: "Aug 2022",
-      repo: "https://github.com/AbduldevLab/Delivery_app",
+      repo: "https://github.com/mr-fennec/Delivery_app",
     },
     {
       id: 7,
@@ -75,7 +75,7 @@ const Portfolio: React.FC = () => {// Portfolio component displaying recent proj
       desc: "Location-aware targeting app using browser geolocation and mapping APIs.",
       tech: ["JavaScript", "HTML5", "Geolocation API"],
       month: "Oct 2022",
-      repo: "https://github.com/AbduldevLab/TargetInternet",
+      repo: "https://github.com/mr-fennec/TargetInternet",
     },
   ];
 

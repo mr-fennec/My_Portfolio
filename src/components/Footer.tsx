@@ -11,9 +11,9 @@ const Footer: React.FC = () => { // Footer component displaying copyright inform
         fontSize: "0.82rem",
       }}
     >
-      {/* <span>© 2026 Abduldevlab - Built with React & TypeScript</span> */}
+      {/* <span>© 2026 mr-fennec - Built with React & TypeScript</span> */}
       <span>
-        © {new Date().getFullYear()} Abduldevlab. Built with React and
+        © {new Date().getFullYear()} Mr Fennec 🦊. Built with React and
         TypeScript
       </span>
     </div>

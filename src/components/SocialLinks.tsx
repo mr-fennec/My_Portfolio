@@ -17,7 +17,7 @@ const SocialLinks: React.FC = () => {// SocialLinks component displaying social 
       id: 2,
       icon: <FaGithub size={18} />,
       label: "GitHub",
-      href: "https://github.com/Abduldevlab",
+      href: "https://github.com/mr-fennec",
     },
     {
       id: 3,
