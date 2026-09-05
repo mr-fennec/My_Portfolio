@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.3e0c6f83.css",
-    "main.js": "/static/js/main.21995aee.js",
+    "main.js": "/static/js/main.de6ef4f4.js",
     "static/media/kake.PNG": "/static/media/kake.5cb9c25448873a642cc1.PNG",
     "static/media/weatherApp.png": "/static/media/weatherApp.82196f7e43132536501e.png",
-    "static/media/Abderahman_Haouit_CV.pdf": "/static/media/Abderahman_Haouit_CV.ef352939d7b21887484b.pdf",
     "static/media/thesis.png": "/static/media/thesis.4e3931a16c566e26ba79.png",
     "static/media/calmness.jpg": "/static/media/calmness.1b2c69bc607092247cbb.jpg",
+    "static/media/Abderahman_Haouit_CV.pdf": "/static/media/Abderahman_Haouit_CV.56a112c09c8bfc1ab2b2.pdf",
     "static/media/databricks.png": "/static/media/databricks.0b9e5f7b96c5388d79f9.png",
     "static/media/delivery.png": "/static/media/delivery.38fbed0dd392e96a8e8f.png",
     "static/media/ipaddress.png": "/static/media/ipaddress.06f458b5fd7dd903b3d4.png",
@@ -29,10 +29,10 @@
     "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/index.html",
     "main.3e0c6f83.css.map": "/static/css/main.3e0c6f83.css.map",
-    "main.21995aee.js.map": "/static/js/main.21995aee.js.map"
+    "main.de6ef4f4.js.map": "/static/js/main.de6ef4f4.js.map"
   },
   "entrypoints": [
     "static/css/main.3e0c6f83.css",
-    "static/js/main.21995aee.js"
+    "static/js/main.de6ef4f4.js"
   ]
 }
