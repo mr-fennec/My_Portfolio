@@ -68,10 +68,10 @@ const Home: React.FC = () => {// Home component displaying the hero section of t
             Software Engineer at{" "}
             <span style={{ color: "#f0f0f5", fontWeight: 500 }}>Northern Trust</span>
             , building microservices for global banking with Java, Spring Boot, React & Azure.
-            Graduating in January with an{" "}
-            <span style={{ color: "#f0f0f5", fontWeight: 500 }}>MSc in Artificial Intelligence (1:1)</span>
+            I hold an{" "}
+            <span style={{ color: "#f0f0f5", fontWeight: 500 }}>MSc in Artificial Intelligence with First Class Honours</span>
             {" "}from the University of Limerick — thesis on chronic disease prediction using
-            longitudinal ML on the TILDA dataset, with a predicted grade of 75%+.
+            longitudinal ML on the TILDA dataset, awarded an A1 grade.
           </p>
 
           {/* Stats row */}
@@ -84,7 +84,7 @@ const Home: React.FC = () => {// Home component displaying the hero section of t
             }}
           >
             {[
-              { num: "75%+", label: "Thesis (predicted)" },
+              { num: "A1", label: "Thesis grade" },
               { num: "1:1", label: "MSc AI — UL" },
               { num: "2+", label: "Years exp." },
             ].map(({ num, label }) => (

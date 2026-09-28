@@ -10,9 +10,9 @@ const Education: React.FC = () => { // Academic background component
       period: "2024 – 2026",
       degree: "MSc in Artificial Intelligence",
       school: "University of Limerick",
-      grade: "1:1 · Thesis: 75%+ (predicted)",
+      grade: "First Class Honours · QCA: 3.83 · Thesis: A1 (30 credits)",
       detail:
-        "Thesis: Predicting chronic disease onset in older adults using longitudinal ML on the TILDA dataset. Pooled multi-wave XGBoost achieved 0.718 AUC — a 22% improvement over the single-wave baseline.",
+        "Route: Artificial Intelligence with Modern Machine Learning\nThesis/dissertation: Predicting chronic disease onset in older adults using longitudinal ML on the TILDA dataset. Pooled multi-wave XGBoost achieved 0.718 AUC — a 22% improvement over the single-wave baseline.\nRelevant modules: Machine Learning Applications, Deep Learning, Machine Vision, Artificial Intelligence and Machine Learning, Data Analytics, and AI and Data Science Ecosystems",
       accent: "#00d4aa",
       img: ul,
     },
@@ -150,9 +150,13 @@ const Education: React.FC = () => { // Academic background component
                     )}
                   </p>
                   {detail && (
-                    <p style={{ fontSize: "0.82rem", color: "#7a7a90", lineHeight: 1.6, marginTop: "0.6rem", textAlign: "left" }}>
-                      {detail}
-                    </p>
+                    <div style={{ fontSize: "0.82rem", color: "#7a7a90", lineHeight: 1.6, marginTop: "0.6rem", textAlign: "left" }}>
+                      {detail.split("\n").map((item) => (
+                        <div key={item}>
+                          <span style={{ color: "#6c63ff" }}>• </span>{item}
+                        </div>
+                      ))}
+                    </div>
                   )}
                 </div>
               </div>

@@ -112,16 +112,16 @@ const About: React.FC = () => {// Skills grouped by category
             </p>
             <br />
             <p>
-              Alongside work, I'm graduating this January with an{" "}
+              Alongside work, I completed an{" "}
               <span style={{ color: "#f0f0f5", fontWeight: 500 }}>
-                MSc in Artificial Intelligence (1:1) from the University of
+                MSc in Artificial Intelligence with First Class Honours from the University of
                 Limerick
               </span>{" "}
               (2024–2026). My thesis applies longitudinal machine learning to
               the Irish Longitudinal Study of Ageing (TILDA) dataset to predict
               chronic disease onset in older Irish adults — achieving a 22% AUC
-              improvement over the single-wave baseline with XGBoost, with a
-              predicted thesis grade of 75%+.
+              improvement over the single-wave baseline with XGBoost. The
+              thesis was awarded an A1 grade and was worth 30 credits.
             </p>
             <br />
             <p>
