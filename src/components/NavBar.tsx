@@ -44,13 +44,13 @@ const NavBar: React.FC = () => {// Navigation bar component with responsive desi
         className="cursor-pointer select-none bg-transparent border-none p-0"
         style={{
           fontFamily: "'Space Grotesk', sans-serif",
-          fontSize: "1.4rem",
+          fontSize: "1.45rem",
           fontWeight: 700,
           letterSpacing: "-0.02em",
           color: "#f0f0f5",
         }}
       >
-        Abder<span style={{ color: "#6c63ff" }}>.</span>
+        Abder h<span style={{ color: "#6c63ff" }}>.</span>
       </button>
 
       {/* Desktop links */}
