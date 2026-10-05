@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 180" role="img" aria-labelledby="title desc">
+  <title id="title">AH. wordmark</title>
+  <desc id="desc">The AH. wordmark in Space Grotesk with a violet signature dot.</desc>
+  <text x="8" y="128" fill="#f0f0f5" font-family="Space Grotesk, sans-serif" font-size="108" font-weight="700" letter-spacing="-4">AH</text>
+  <circle cx="185" cy="113" r="15" fill="#6c63ff"/>
+</svg>
