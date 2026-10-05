@@ -2,6 +2,7 @@ import React from "react";
 import { FaGithub, FaLinkedin } from "react-icons/fa";
 import { HiOutlineMail } from "react-icons/hi";
 import { BsFillPersonLinesFill } from "react-icons/bs";
+import { SiGoodreads } from "react-icons/si";
 import cv from "../assets/Abderahman_Haouit_CV.pdf";
 
 const SocialLinks: React.FC = () => {// SocialLinks component displaying social media links with responsive design 
@@ -21,12 +22,18 @@ const SocialLinks: React.FC = () => {// SocialLinks component displaying social 
     },
     {
       id: 3,
+      icon: <SiGoodreads size={18} />,
+      label: "Goodreads",
+      href: "https://www.goodreads.com/user/show/204707111-abder-h",
+    },
+    {
+      id: 4,
       icon: <HiOutlineMail size={18} />,
       label: "Email",
       href: "mailto:abdul01hd@yahoo.com",
     },
     {
-      id: 4,
+      id: 5,
       icon: <BsFillPersonLinesFill size={18} />,
       label: "CV",
       href: cv,
