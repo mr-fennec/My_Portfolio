@@ -3,10 +3,10 @@
   "name": "Abderahman Haouit Portfolio",
   "icons": [
     {
-      "src": "ah-mark.svg",
-      "sizes": "any",
-      "type": "image/svg+xml",
-      "purpose": "any maskable"
+      "src": "fibonnaci.jpeg",
+      "sizes": "787x900",
+      "type": "image/jpeg",
+      "purpose": "any"
     }
   ],
   "start_url": ".",

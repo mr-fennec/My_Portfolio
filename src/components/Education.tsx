@@ -23,7 +23,7 @@ const Education: React.FC = () => { // Academic background component
       school: "Maynooth University",
       grade: "2:1 — FYP: 82%",
       detail:
-        "Final year project: Kake Dessert Delivery — full stack Firebase web application for a real startup client.",
+        "Final year project: Kake Dessert Delivery — a full-stack Firebase web application developed for a startup client.",
       accent: "#6c63ff",
       img: mu,
     },
